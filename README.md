@@ -1,10 +1,10 @@
 ## Hi there 👋
 I'm Johnson, a Front-end developer from a tactical team⚡️.
 
-##My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,vite,react,tailwind,redux,astro,next,ts)](https://skillicons.dev)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vite,react,tailwind,redux,astro,next,ts)](https://skillicons.dev)
 
-##Stats
+## Stats
 [![Latseng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latseng)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
