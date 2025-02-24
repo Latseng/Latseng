@@ -1,12 +1,15 @@
 ## Hi there 👋
 I'm Johnson, a Front-end developer from a tactical team⚡️.
 
+[My Blog](https://johnson-dev.netlify.app/ "江森的前端研究室")
+
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vite,react,tailwind,redux,astro,next,ts)](https://skillicons.dev)
 
 ## Stats
-[![Latseng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latseng)](https://github.com/anuraghazra/github-readme-stats)
+[![Latseng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latseng&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latseng&show_icons=true&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Latseng/Latseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
