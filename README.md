@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Johnson, a Front-end developer from a tactical team⚡️.
+I'm Johnson, a Web developer from a tactical team⚡️.
 
 [My Blog](https://johnson-dev.netlify.app/ "江森的前端研究室")
 
